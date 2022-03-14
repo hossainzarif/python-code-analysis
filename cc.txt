@@ -1,0 +1,5 @@
+./trip_calculator.py
+    F 11:0 plane_ride_cost - A (5)
+    F 6:0 hotel_cost - A (1)
+    F 26:0 rental_car_cost - A (1)
+    F 30:0 trip_cost - A (1)

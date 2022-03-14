@@ -1,0 +1,13 @@
+trip_calculator.py:
+    h1: 5
+    h2: 24
+    N1: 15
+    N2: 30
+    vocabulary: 29
+    length: 45
+    calculated_length: 121.64874049174458
+    volume: 218.60914478074076
+    difficulty: 3.125
+    effort: 683.1535774398149
+    time: 37.952976524434156
+    bugs: 0.07286971492691359
